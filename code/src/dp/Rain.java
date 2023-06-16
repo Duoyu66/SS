@@ -7,7 +7,7 @@ public class Rain {
         System.out.println(rain.trap(height));
     }
     public int trap(int[] height) {
-
+        System.out.println("HEllo world");
 
         return 1;
     }
