@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a9436c5-23fe-4c2a-96e9-3502ff87b29a" name="更改" comment="翻转二维数组">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +157,7 @@
       <workItem from="1688550349064" duration="1627000" />
       <workItem from="1688895706838" duration="16000" />
       <workItem from="1688895737330" duration="85000" />
-      <workItem from="1688895850646" duration="1411000" />
+      <workItem from="1688895850646" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="找不同">
       <created>1686709235332</created>
